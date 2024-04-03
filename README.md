@@ -40,6 +40,14 @@ Contributions to enhance and improve the Shopping App are welcome! You can open 
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Live Demo
+
+[click me](https://shoppingapp-with-django.onrender.com)
+
+## Screenshots
+
+![Screenshot (40)](https://github.com/krissh6563-droid/ShoppingApp-with-Django/assets/56572543/e7ed0b85-1649-4bb0-af3b-9803a65899c3)
+
 ---
 
 Feel free to customize this README template further according to your project's specific details and requirements. Happy coding!
